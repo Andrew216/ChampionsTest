@@ -1,0 +1,11 @@
+name: Drupal
+type: theme
+description: my test theme
+package: Custom
+core: 8.x
+libraries:
+  - mytheme/style
+region: Navigation
+land: Home
+content: Page Content
+footer: Page Footer

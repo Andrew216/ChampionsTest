@@ -1,0 +1,17 @@
+Font: Roboto 
+
+https://fonts.google.com/specimen/Roboto
+
+Colours:
+
+Orange #FFA000
+
+Brown #3C2F19
+
+Grey background #EBEBEB
+
+Grey middle block segment #D6D6D6
+
+Grey footer text #B2B2B2
+
+
